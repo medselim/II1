@@ -190,22 +190,6 @@ public class Automate {
 		}
 		F=Fmin ;
 		
-	//preparation du nouveau q0
-		/*String axiome = new String() ;
-		for(ArrayList<String> list : P)
-		{
-			for(String etat : list)
-			{
-				if (etat.equals(q0))
-					axiome = list.toString();
-			}
-		}*/
-		
-		/*String ei=new String();
-		for(ArrayList<String> list:P){
-			
-		}*/
-		
 		
 	//preparation de la nouvelle delta
 		ArrayList<arc> deltamin = new ArrayList<arc>() ;
